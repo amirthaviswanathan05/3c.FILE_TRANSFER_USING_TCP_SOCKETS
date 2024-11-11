@@ -54,11 +54,10 @@ while True:
 ```
 
 ## OUPUT
-![323202409-7a1db6d1-2a7a-4cd7-8464-dea2b8450bcf](https://github.com/user-attachments/assets/d3acb92d-d270-4cb9-a779-7a6d5214f4cf)
+![384932904-5569b4da-ebcf-49a1-aa2e-a2eb1e829d58](https://github.com/user-attachments/assets/44162256-842d-4466-9732-f6e6e6371ff8)
 
 
-![323202334-735b233f-ddde-4d1a-acce-b48f78f5ea2c](https://github.com/user-attachments/assets/25efeaec-1468-4770-b838-4de74c661b49)
-
+![384932983-27a8208d-ad32-4714-8045-b8b770de2f25](https://github.com/user-attachments/assets/d8768a3d-9786-45c3-a334-a45f5fd487f8)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
